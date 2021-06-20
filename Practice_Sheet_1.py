@@ -63,7 +63,7 @@ print(color_list_1 - color_list_2)
 
 # ================================================================================================================
 
-# Pangram
+# Q 7) Pangram
 
 inp = str(input('Enter a string: '))
 s_inp = set(inp.lower())  # it will give unique values in lower case
